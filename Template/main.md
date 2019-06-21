@@ -29,7 +29,7 @@ Resolution: 1920 x 1080
 >
 > [`https://drive.google.com/file/d/1oZZ8szdasjbt7QmjQrkl4KEyCJDj0sA8/view?usp=sharing`](https://drive.google.com/file/d/1oZZ8szdasjbt7QmjQrkl4KEyCJDj0sA8/view?usp=sharing)
 
-![sch](main.assets/sch.png)
+![sch](img/sch.png)
 
 > Note: the above abstraction of the design ignores the following two features:
 >
@@ -44,7 +44,7 @@ Resolution: 1920 x 1080
 >
 > > The axis orientation in Fusion 360 must be set as "**Z axis UP**"
 >
-> ![axis](main.assets/axis-1557410407455.png)
+> ![axis](img/axis.png)
 >
 > #### Grouping and Nomenclature
 >
