@@ -83,6 +83,10 @@ Resolution: 1920 x 1080
 > Bearings must be numbered according to their bearing number as follows:
 >
 > If the bearing number is **6008**, the component must be named as **B_6008**
+>
+> ##### 5. Bolts
+>
+> Bolts and Nuts can be ignored unless necessary (eg. - Lead Screw Mechanism)
 
 ## Model Export
 
