@@ -29,7 +29,7 @@ Resolution: 1920 x 1080
 >
 > [`https://drive.google.com/file/d/1oZZ8szdasjbt7QmjQrkl4KEyCJDj0sA8/view?usp=sharing`](https://drive.google.com/file/d/1oZZ8szdasjbt7QmjQrkl4KEyCJDj0sA8/view?usp=sharing)
 
-![sch](img/sch.png)
+![sch](img/sch2.png)
 
 > Note: the above abstraction of the design ignores the following two features:
 >
