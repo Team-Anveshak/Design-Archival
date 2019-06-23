@@ -70,6 +70,8 @@ Resolution: 1920 x 1080
 >
 > > Wheels, Gripper and Digger denote the ends of these chains
 >
+> > Joint interfaces must be aligned to global axis orientation in the link assemblies
+>
 > ##### 3. Components inside a link
 >
 > The components inside a link (**n**) must be named as follows:
@@ -86,9 +88,11 @@ Resolution: 1920 x 1080
 >
 > Bearings must be numbered according to their bearing number as follows:
 >
-> If the bearing number is **6008**, the component must be named as **B_6008**
+> If the bearing number is **6008**, the component must be named as **n_B_6008**
 >
-> ##### 5. Bolts
+> > Since two linkages are typically separated by a bearing (in a joint), the bearing can be a part of either side of the joint, in either of the two linkages - **n** in the notation indicates the link its a part of.
+>
+> #####  5. Bolts
 >
 > Bolts and Nuts can be ignored unless necessary (eg. - Lead Screw Mechanism)
 >
@@ -96,12 +100,14 @@ Resolution: 1920 x 1080
 >
 > Unlike what's mentioned in section 3, motors belonging to link **n** must be named as:
 >
-> Label - $$n\_m_x$$ - **n_m_x**
+> Label - $$n\_M_x$$ - **n_M_x**
 >
 > where x is an arbitrarily assigned number
 
 ## Model Export
 
+> > Before the export is carried out, even the link subassemblies must be "broken links" with - no referencing to any external components
+>
 > Following files have to be exported:
 >
 > - STEP (v2017.step)
