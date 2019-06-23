@@ -79,6 +79,8 @@ Resolution: 1920 x 1080
 > where x is an arbitrarily assigned number
 >
 > > Note: All the components inside a link must be broken/unlinked components 
+> >
+> > Note: All the components inside the link must be declared a rigid group inside the sub-assembly itself
 >
 > ##### 4. Bearings
 >
