@@ -74,7 +74,7 @@ Resolution: 1920 x 1080
 >
 > The components inside a link (**n**) must be named as follows:
 >
-> Label - $$n_x$$ - **L_x**
+> Label - $$n_x$$ - **n_x**
 >
 > where x is an arbitrarily assigned number
 >
@@ -91,6 +91,14 @@ Resolution: 1920 x 1080
 > ##### 5. Bolts
 >
 > Bolts and Nuts can be ignored unless necessary (eg. - Lead Screw Mechanism)
+>
+> ##### 6. Motors/Actuators
+>
+> Unlike what's mentioned in section 3, motors belonging to link **n** must be named as:
+>
+> Label - $$n\_m_x$$ - **n_m_x**
+>
+> where x is an arbitrarily assigned number
 
 ## Model Export
 
