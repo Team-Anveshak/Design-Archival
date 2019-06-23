@@ -78,6 +78,8 @@ Resolution: 1920 x 1080
 >
 > where x is an arbitrarily assigned number
 >
+> > Note: All the components inside a link must be broken/unlinked components 
+>
 > ##### 4. Bearings
 >
 > Bearings must be numbered according to their bearing number as follows:
