@@ -82,7 +82,9 @@ Resolution: 1920 x 1080
 >
 > > Note: All the components inside a link must be broken/unlinked components 
 > >
-> > Note: All the components inside the link must be declared a rigid group inside the sub-assembly itself
+> > Note: All the components inside the link must be declared a rigid group inside the sub-assembly itself (with an exception mentioned below)
+> >
+> > Note: Some essential joints can be defined within the link, which do not affect the overall functioning of the link (Check Gripper Assembly in 2017)
 >
 > ##### 4. Bearings
 >
@@ -103,6 +105,10 @@ Resolution: 1920 x 1080
 > Label - $$n\_M_x$$ - **n_M_x**
 >
 > where x is an arbitrarily assigned number
+>
+> ##### 7. Gripper
+>
+> 
 
 ## Model Export
 
